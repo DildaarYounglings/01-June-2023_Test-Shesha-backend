@@ -1,0 +1,16 @@
+{
+  "user": [
+    {
+      "id": "Jackwell",
+      "name": "Jack",
+      "password": "j123",
+      "email": "jack@gmail.com"
+    },
+    {
+      "id": "primedildaar2",
+      "name": "Dildaar",
+      "password": "prime2",
+      "email": "primedildaar2@gmail.com"
+    }
+  ]
+}
